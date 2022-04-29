@@ -1,5 +1,6 @@
 # Projeto-agenda-nodeJs
 Projeto de uma agenda de contatos
+link para acesso: http://34.151.232.52/
 
 Projeto feito com javascript, nodejs, express, bootstrap, css, webpack, ejs, mongoDb.
 
