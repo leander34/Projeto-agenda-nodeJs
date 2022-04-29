@@ -20,12 +20,12 @@ regenerator-runtime <br>
 style-loader <br>
 validator: usado para validar os email <br>
 
-"@babel/cli" <br>
-"@babel/core" <br>
-"@babel/preset-env" <br>
-"babel-loader" <br>
-"nodemon" <br>
-"webpack": empacotador de módulos (fazer um bundle do seu código) <br>
-"webpack-cli" <br>
+@babel/cli <br>
+@babel/core <br>
+@babel/preset-env <br>
+babel-loader <br>
+nodemon <br>
+webpack: empacotador de módulos (fazer um bundle do seu código) <br>
+webpack-cli <br>
 
 
