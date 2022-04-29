@@ -3,9 +3,9 @@ Projeto de uma agenda de contatos
 
 Projeto feito com javascript, nodejs, express, bootstrap, css, webpack, ejs, mongoDb.
 
-Alguns pacotes utilizado:
-bcryptjs: usado em criar hash das senhas salvas no banco de dados
-connect-flash: messagens flash que aparecem somente um vez na tele
+Alguns pacotes utilizado: <br>
+bcryptjs: usado em criar hash das senhas salvas no banco de dados <br>
+connect-flash: messagens flash que aparecem somente um vez na tele <br>
 connect-mongo: necessario para usar o mongoDb
 core-js
 css-loader
